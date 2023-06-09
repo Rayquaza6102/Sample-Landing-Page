@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+
+
+
+.intro-cont{
+    width: 100%;
+    max-width: 100%;
+    padding:0;
+}
+
+.wrapper{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.form-control{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inputForm{
+    padding:0;
+}
+
+.form-group{
+    width:90%;
+    margin:3% 5% 3% 6%;
+}
+
+.btn-block{
+    width: 95%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+hr{
+    margin : 0;
+}
+
+.green-checkmark::before {
+    content: '\2713'; /* Unicode character for checkmark */
+    color: green;
+    margin-right: 1em;
+  }
+  
+ul{
+    padding-left: 0px;
+}
